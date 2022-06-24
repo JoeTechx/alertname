@@ -13,6 +13,6 @@ const aboutMe = {
 
 alert(`I am ${aboutMe.name}
 I am ${aboutMe.height} tall
-I am ffrom${aboutMe.country}`)
+I am from ${aboutMe.country}`);
 
 
